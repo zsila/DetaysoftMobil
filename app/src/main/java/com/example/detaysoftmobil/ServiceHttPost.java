@@ -17,7 +17,7 @@ public class ServiceHttPost {
 
 	public static InputStream callLoginControlService(String url,String envelope) throws IOException {		
 		
-		Credentials defaultcreds = new UsernamePasswordCredentials("p0427", "polat12345");
+		Credentials defaultcreds = new UsernamePasswordCredentials("p0427", "1234");
 		DefaultHttpClient httpclient = new DefaultHttpClient();
 		httpclient.getCredentialsProvider().setCredentials(new AuthScope(AuthScope.ANY_HOST, AuthScope.ANY_PORT), defaultcreds);
 
