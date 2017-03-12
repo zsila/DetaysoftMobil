@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2154,
+                    "endColumn": 43,
+                    "endOffset": 2193
+                },
+                "from": {
+                    "file": "C:\\Users\\zisan\\.android\\build-cache\\3155e9c32929370f2c3a2437b5fc4017b415c5b5\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 8767,
+                        "endColumn": 43,
+                        "endOffset": 8806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2198,
+                    "endColumn": 51,
+                    "endOffset": 2245
+                },
+                "from": {
+                    "file": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 51,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2250,
+                    "endColumn": 52,
+                    "endOffset": 2298
+                },
+                "from": {
+                    "file": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2303,
+                    "endColumn": 50,
+                    "endOffset": 2349
+                },
+                "from": {
+                    "file": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 50,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2354,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2640
+                },
+                "from": {
+                    "file": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2645,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2800
+                },
+                "from": {
+                    "file": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

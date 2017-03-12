@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aktivite_row.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\aktivite_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favori_listesi.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\favori_listesi.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favori_aktiviteler.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\favori_aktiviteler.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainpage.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\mainpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favori_projeyeri.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\favori_projeyeri.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\anasayfa.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\anasayfa.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aktivitelerim.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\aktivitelerim.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_ekran.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\login_ekran.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_row.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\simple_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowlayout.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yeni_aktivite.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\yeni_aktivite.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aktivite_detay.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\aktivite_detay.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aktivite_sayfasi.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\DetaysoftMobil\\app\\src\\main\\res\\layout\\aktivite_sayfasi.xml"
+    }
+]

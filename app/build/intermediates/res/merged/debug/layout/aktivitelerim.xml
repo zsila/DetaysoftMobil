@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="#FFFFFF"
+       >
+
+    
+    
+    <ListView
+        android:id="@+id/listView_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"
+        android:layout_marginTop="100dip"
+        android:layout_marginBottom="50dip"
+        android:clickable="true"
+       
+        >
+
+    </ListView>
+
+    <EditText
+        android:id="@+id/editText_1"
+        android:layout_width="115dip"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/listView_1"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="39dp"
+        android:ems="10"
+        android:enabled="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="none|date" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editText_2"
+        android:layout_width="115dip"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editText_1"
+        android:layout_alignRight="@+id/listView_1"
+        android:layout_alignTop="@+id/editText_1"
+        android:ems="10"
+        android:enabled="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="date" />
+
+    <DatePicker
+        android:id="@+id/datePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="100dip"
+        android:layout_alignLeft="@+id/listView_1"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/git_butonu"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="40dip"
+        android:layout_height="wrap_content"
+         android:layout_alignBottom="@+id/editText_1"
+        android:layout_alignLeft="@+id/listView_1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/editText_1"
+        android:clickable="true"
+        android:text="Listele" />
+
+</RelativeLayout>

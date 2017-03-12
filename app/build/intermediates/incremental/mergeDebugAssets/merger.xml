@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\zisan\.android\build-cache\3155e9c32929370f2c3a2437b5fc4017b415c5b5\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\zisan\AndroidStudioProjects\DetaysoftMobil\app\src\main\assets"/><source path="C:\Users\zisan\AndroidStudioProjects\DetaysoftMobil\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\zisan\AndroidStudioProjects\DetaysoftMobil\app\src\debug\assets"/></dataSet></merger>
